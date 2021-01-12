@@ -49,7 +49,7 @@ button {
     padding: 10px;
     border: 0;
     flex-grow: 1;
-    background-image: linear-gradient(white, #999);
+    background-image: linear-gradient(blue, #999);
     transition: all 200ms;
 }
 
